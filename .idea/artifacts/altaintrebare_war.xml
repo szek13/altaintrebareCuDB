@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="altaintrebare:war">
+    <output-path>$PROJECT_DIR$/altaintrebare/target</output-path>
+    <root id="archive" name="altaintrebare.war">
+      <element id="artifact" artifact-name="altaintrebare:war exploded" />
+    </root>
+  </artifact>
+</component>
